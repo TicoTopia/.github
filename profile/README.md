@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  TicoTopia
+  Kodiak
   <img src="https://emojis.slackmojis.com/emojis/images/1707942043/89359/ditto_sparkle_party_dance.gif?1707942043" width="28">
 </h3>
 
